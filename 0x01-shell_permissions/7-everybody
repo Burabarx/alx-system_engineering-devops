@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x everybody
+chmod 644 everybody
